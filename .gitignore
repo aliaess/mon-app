@@ -19,3 +19,6 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# Script d'aide personnel à l'envoi sur GitHub (non publié)
+Pousser sur GitHub.command
