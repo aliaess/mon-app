@@ -1,0 +1,21 @@
+# Environnement virtuel Python (reconstruit par Streamlit Cloud depuis
+# requirements.txt : il ne doit jamais être versionné)
+.venv/
+venv/
+env/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Historique local des calculs (données de l'utilisateur)
+.van_data/
+
+# Secrets Streamlit (ne doit jamais être publié)
+.streamlit/secrets.toml
+
+# Outils / système
+.DS_Store
+.vscode/
+.idea/
